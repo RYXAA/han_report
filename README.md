@@ -1,5 +1,5 @@
 # Han Report
-Ini adalah sistem laporan dasar skrip dengan webhook perselisihan yang dapat dikonfigurasi dengan nui modern
+Ini adalah sistem laporan dasar script fivem dengan webhook perselisihan yang dapat dikonfigurasi dengan nui modern
 
 # Script in the Core
 

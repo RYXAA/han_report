@@ -3,8 +3,8 @@ games { 'gta5' }
 
 ui_page 'html/index.html'
 
-author 'Danny255' -- http://discord.gg/t24h5ku3su
-description 'ReportSystemGEj' -- https://danny255-scripts.tebex.io/package/4555382
+author 'KenK'
+description 'ReportSystemGEj'
 version '1.1.0'
 
 
